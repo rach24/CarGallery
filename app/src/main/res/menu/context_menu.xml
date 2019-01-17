@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/shortclick"
+        android:title="View Full Picture" />
+    <item
+        android:id="@+id/web"
+        android:title="Go to the Web Page" />
+    <item
+        android:id="@+id/list3"
+        android:title="Find Nearby Dealers" />
+
+</menu>
